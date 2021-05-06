@@ -1,0 +1,6 @@
+#Kind of like a interface, stops code repition
+
+fragment RegularUser on User {
+  _id
+  username
+}
